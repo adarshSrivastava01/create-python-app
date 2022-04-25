@@ -1,0 +1,8 @@
+LICENSE
+README.md
+adarsh
+setup.py
+adarsh.egg-info/PKG-INFO
+adarsh.egg-info/SOURCES.txt
+adarsh.egg-info/dependency_links.txt
+adarsh.egg-info/top_level.txt
